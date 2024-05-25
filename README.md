@@ -8,6 +8,6 @@ Minha experiência como profissional da área de qualidade inclui criação de p
 
 Possuo conhecimentos em planejamento de testes, HTML, CSS, JavaScript, SQL, Cypress, Selenium, Postman, Gherkin, Jira, BDD e etc..
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/italomateuscosta)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italomateuscosta)
 
 
