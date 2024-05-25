@@ -1,24 +1,12 @@
-## Olá, Eu sou o Italo!
+# Olá, seja bem-vindo(a) ao meu perfil! 🙋
 
-<div>
-  <a href="https://github.com/italogundes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italogundes&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italogundes&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Italo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Italo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-##
+Sou o Ítalo, um jovem nordestino, sonhador, e apaixonado pela área de qualidade de software! 💘💻
 
-<div>
-  <a href="mailto:italocosta.mateus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/italo-costa-278532138" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+Sou um profissional dedicado, que está sempre em busca de novos desafios, novos aprendizados e conexões. Estou sempre comprometido em contribuir com a equipe de modo a garantir a qualidade dos produtos e processos.
 
-##
-  
-- 👨🏻‍💻 Trabalho com Front-End
-- 📚 Estudando React JS
+Minha experiência como profissional da área de qualidade inclui criação de planos e casos de testes, análise de requisitos e regras de negócio, testes funcionais, testes exploratórios, testes manuais, testes de API, documenração de projetos, report de bugs, manipulação em bancos de dados, versionamento de aplicações, automação de testes com cypress e selenium. Sou extremamente autodidata e procuro entender de forma profunda as regras e necessidades dos clientes, bem como aprender o que for necessário para garantir que as soluções desenvolvidas atendam às expectativas dos stakeholders.
+
+Possuo conhecimentos em planejamento de testes, HTML, CSS, JavaScript, SQL, Cypress, Selenium, Postman, Gherkin, Jira, BDD e etc..
+
+Me encontre em:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/italomateuscosta)
